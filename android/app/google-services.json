@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477561254125",
+    "project_id": "simpleblogapp-8743e",
+    "storage_bucket": "simpleblogapp-8743e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477561254125:android:cd82e4f5791bc3f26fdce4",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477561254125-890mbqm9d91ipl1f9llqg08mdvq711d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jBT5idwvQkCSFHr8L9UJK5KqXO19lAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477561254125-890mbqm9d91ipl1f9llqg08mdvq711d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
